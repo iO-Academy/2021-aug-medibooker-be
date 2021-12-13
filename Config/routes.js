@@ -1,6 +1,7 @@
 const doctorController = require('../Controllers/DoctorController');
 const appointmentController = require('../Controllers/AppointmentController');
 
+
 function routes(app) {
   // Root route
   app.get('/', (req, res) => {
