@@ -5,7 +5,7 @@ class DoctorRepository {
 
   constructor() {
     connect().then((db) => {
-      this.doctorCollection = db.collection('doctors');
+      this.doctorCollection = db.collection('Doctors');
     });
   }
 

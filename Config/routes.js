@@ -1,4 +1,5 @@
-const doctorController = require('../Controllers/doctorController');
+const doctorController = require('../Controllers/DoctorController');
+const appointmentController = require('../Controllers/AppointmentController');
 
 function routes(app) {
   // Root route
@@ -7,6 +8,8 @@ function routes(app) {
   });
 
   app.get('/doctors', doctorController.getDoctors);
+  app.get('/appointments', appointmentController.getAppointments);
+  app.post('/appointments', appointmentController.addAppointment);
 }
 
 module.exports = routes;
