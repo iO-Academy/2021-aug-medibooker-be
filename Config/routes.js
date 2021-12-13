@@ -1,4 +1,4 @@
-const doctorController = require('../Controllers/doctorController');
+const doctorController = require('../Controllers/DoctorController');
 
 function routes(app) {
   // Root route
