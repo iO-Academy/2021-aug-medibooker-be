@@ -2,8 +2,8 @@
   "_id": {
     "$oid": "61b7286f79dcb0ea240ee1f7"
   },
-  "Date": "2022-01-13T11:12:06.875Z",
-  "Time": "13:00",
+  "Date": "2022-01-13",
+  "Time": "13:00 - 14:00",
   "Doctor": "Dr Octavius",
   "Patient": "Peter Parker",
   "Patient Email": "spideysense@email.com",
@@ -12,8 +12,8 @@
   "_id": {
     "$oid": "61b72dc479dcb0ea240ee200"
   },
-  "Date": "2022-01-14T11:12:06.875Z",
-  "Time": "15:00",
+  "Date": "2022-01-14",
+  "Time": "15:00 - 16:00",
   "Doctor": "Dr Dre",
   "Patient": "Arthur Read",
   "Patient Email": "snoop@email.com",
@@ -22,8 +22,8 @@
   "_id": {
     "$oid": "61b72e3b79dcb0ea240ee201"
   },
-  "Date": "2022-01-13T11:15:06.875Z",
-  "Time": "09:00",
+  "Date": "2022-01-13",
+  "Time": "09:00 - 10:00",
   "Doctor": "Dr Octavius",
   "Patient": "Norman Osborn",
   "Patient Email": "normie@email.com",
@@ -32,8 +32,8 @@
   "_id": {
     "$oid": "61b72f2179dcb0ea240ee20e"
   },
-  "Date": "2022-01-11T11:15:06.875Z",
-  "Time": "11:00",
+  "Date": "2022-01-11",
+  "Time": "11:00 - 12:00",
   "Doctor": "Dr Nick",
   "Patient": "Phil Mitchell",
   "Patient Email": "philmitchell@email.com",
@@ -42,8 +42,8 @@
   "_id": {
     "$oid": "61b72f8e79dcb0ea240ee20f"
   },
-  "Date": "2022-01-13T11:15:06.875Z",
-  "Time": "13:00",
+  "Date": "2022-01-13",
+  "Time": "13:00 - 14:00",
   "Doctor": "Dr Ramoray",
   "Patient": "John Smith",
   "Patient Email": "smithy86@email.com",
@@ -52,8 +52,8 @@
   "_id": {
     "$oid": "61b72fcb79dcb0ea240ee210"
   },
-  "Date": "2022-01-13T11:15:06.875Z",
-  "Time": "14:00",
+  "Date": "2022-01-13",
+  "Time": "14:00 - 15:00",
   "Doctor": "Dr Ramoray",
   "Patient": "Jane Smith",
   "Patient Email": "janesmith123@email.com",
