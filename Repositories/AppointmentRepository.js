@@ -15,6 +15,7 @@ class AppointmentRepository {
 
     async addAppointment(appointment) {
         let addedAppointment = {};
+        console.log(appointment);
         try {
             addedAppointment = await this.appointmentCollection.insertOne(appointment);
         } catch (err) {
