@@ -7,7 +7,6 @@ class AppointmentServices {
   }
 
   async addAppointment(appointment) {
-    console.log(appointment);
     let result = await AppointmentRepository.addAppointment(appointment);
     return result;
   }
